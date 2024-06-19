@@ -1,13 +1,19 @@
-/******  function for reverse the string   ******/
 
-function reverseString(str = "Hello World") {
- let ans = "";
- for (let i = str.length - 1; i >= 0; i--) {
-  ans += str[i]
- }
- return ans
+function reverseString(string) {
+
+
+    if (!string.length) {
+        return new Error('Please pass the string')
+    }
+
+    let reverseStr = '';
+
+    for (let i = string.length - 1; i >= 0; i--) {
+        reverseStr += string[i]
+    }
+
+    return reverseStr
 }
 
-
-let result = reverseString("GOPAL")
-console.log(result)
+let result = reverseString('john wick')
+console.log(result);
