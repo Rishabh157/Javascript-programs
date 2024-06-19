@@ -16,3 +16,6 @@ This repository contains a collection of problems and their corresponding soluti
 4. **Write a function to remove duplicate elements from an array.**
 - [Solution](./removeDuplicateElement.js)
 
+5. **Write a function that checks whether two string are anagrams or not ?**
+- [Solution](./Anagram.js)
+
