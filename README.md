@@ -6,3 +6,7 @@ This repository contains a collection of problems and their corresponding soluti
 
 1. **Write a function that returns the reverse of a string ?**
 - [Solution](./reverseString.js)
+
+1. **Write a function that returns the longest word in the sentence.**
+- [Solution](./longestWord.js)
+
