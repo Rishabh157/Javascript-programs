@@ -19,3 +19,17 @@ This repository contains a collection of problems and their corresponding soluti
 5. **Write a function that checks whether two string are anagrams or not ?**
 - [Solution](./Anagram.js)
 
+6. **Write a function that returns the number of vowels.**
+- [Solution](./countVowels.js)
+
+7. **Write a function to find the largest number in an array.**
+- [Solution](./largestNumberInArray.js)
+
+8. **Write a function to check if a given number is prime or not ?**
+- [Solution](./primeNumber.js)
+
+9. **Write a function to calculate the factorial of a number.**
+- [Solution](./factorial.js)
+
+10.  **Write a program to remove white space characters from the given strign.**
+- [Solution](./removeWhiteSpace.js)
