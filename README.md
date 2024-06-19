@@ -13,3 +13,6 @@ This repository contains a collection of problems and their corresponding soluti
 3. **Write a function that checks a given string is a palindrome or not ?**
 - [Solution](./palindrome.js)
 
+4. **Write a function to remove duplicate elements from an array.**
+- [Solution](./removeDuplicateElement.js)
+
