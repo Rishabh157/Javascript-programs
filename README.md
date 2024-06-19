@@ -5,4 +5,4 @@ This repository contains a collection of problems and their corresponding soluti
 ## Questions
 
 1. **Write a function that returns the reverse of a string ?**
-- [Solution](/reverseString.js)
+- [Solution](./reverseString.js)
