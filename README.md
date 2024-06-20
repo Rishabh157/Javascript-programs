@@ -33,3 +33,7 @@ This repository contains a collection of problems and their corresponding soluti
 
 10.  **Write a program to remove white space characters from the given strign.**
 - [Solution](./removeWhiteSpace.js)
+
+11.  **Write a function that counts the frequency of all the characters in a given string.**
+- [Solution](./counterStringCharacters.js)
+
