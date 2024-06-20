@@ -43,5 +43,8 @@ This repository contains a collection of problems and their corresponding soluti
 13. **Write a function that accepts two strings and returns true if some or all of the characters in the first string can be rearranged to match the second string.**
 - [Solution](./scramble.js)
 
+14.  **Write a function that turns a given string into a wave! You will be passed a string and you must return that string in an array where each letter takes turns to become uppercase. The input string will always be lowercase but may be empty. If you encounter a whitespace then pass over it.**
+- [Solution](./waveGenrateArray.js)
+
 
 
