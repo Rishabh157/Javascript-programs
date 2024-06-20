@@ -27,4 +27,4 @@ function wave(string) {
 }
 
 let result = wave('hello')
-console.log(result)
+console.log(result)  // ['Hello', 'hEllo', 'heLlo', 'helLo', 'hellO'];
