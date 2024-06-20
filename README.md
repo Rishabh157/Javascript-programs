@@ -40,5 +40,8 @@ This repository contains a collection of problems and their corresponding soluti
 12. **Write a function that given an input URL, returns its domain name.**
 - [Solution](./extractDomainFromUrl.js)
 
+13. **Write a function that accepts two strings and returns true if some or all of the characters in the first string can be rearranged to match the second string.**
+- [Solution](./scramble.js)
+
 
 
