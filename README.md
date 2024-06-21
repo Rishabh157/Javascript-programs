@@ -43,12 +43,18 @@ This repository contains a collection of problems and their corresponding soluti
 13. **Write a function that accepts two strings and returns true if some or all of the characters in the first string can be rearranged to match the second string.**
 - [Solution](./scramble.js)
 
-14.   **Write a function that turns a given string into a wave! You will be passed a string and you must return that string in an array where each letter takes turns to become uppercase. The input string will always be lowercase**
+14.  **Write a function that turns a given string into a wave! You will be passed a string and you must return that string in an array where each letter takes turns to become uppercase. The input string will always be lowercase**
 - [Solution](./waveGenrateArray.js)
 
 
-15.  **Write a function that take some sort of string like `hi my name is jhon` and return the full string with first letter capitalize**
+15. **Write a function that take some sort of string like `hi my name is jhon` and return the full string with first letter capitalize**
 - [Solution](./capitalizeString.js)
+
+16.  **Given an integer array nums, move all 0's in the array to the end of it while maintaining the relative order of the non-zero elements. Achieve this without copying the array or creating a new array.**
+- [Solution](./capitalizeString.js)
+
+17.   **Write a function that given an integer array nums of length n, returns an array of length 2n where nums is concatenated to itself.**
+- [Solution](./concatenationArray.js)
 
 
 
