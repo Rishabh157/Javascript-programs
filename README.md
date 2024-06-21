@@ -47,4 +47,8 @@ This repository contains a collection of problems and their corresponding soluti
 - [Solution](./waveGenrateArray.js)
 
 
+15.  **Write a function that take some sort of string like `hi my name is jhon` and return the full string with first letter capitalize**
+- [Solution](./capitalizeString.js)
+
+
 
