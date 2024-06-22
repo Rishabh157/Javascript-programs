@@ -59,5 +59,8 @@ This repository contains a collection of problems and their corresponding soluti
 18.  **Complete the solution so that the function will break up camel casing, using a space between words.**
 - [Solution](./breackCamelCase.js)
 
+19. **Count Characters in Your String.**
+- [Solution](./countCharacters.js)
+
 
 
