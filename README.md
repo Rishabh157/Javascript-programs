@@ -62,5 +62,5 @@ This repository contains a collection of problems and their corresponding soluti
 19. **Count Characters in Your String.**
 - [Solution](./countCharacters.js)
 
-
-
+20.  **The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator! Here's the deal:**
+- [Solution](./hashTagGenerator.js)
