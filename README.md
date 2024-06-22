@@ -53,8 +53,11 @@ This repository contains a collection of problems and their corresponding soluti
 16.  **Given an integer array nums, move all 0's in the array to the end of it while maintaining the relative order of the non-zero elements. Achieve this without copying the array or creating a new array.**
 - [Solution](./capitalizeString.js)
 
-17.   **Write a function that given an integer array nums of length n, returns an array of length 2n where nums is concatenated to itself.**
+17.  **Write a function that given an integer array nums of length n, returns an array of length 2n where nums is concatenated to itself.**
 - [Solution](./concatenationArray.js)
+
+18.  **Complete the solution so that the function will break up camel casing, using a space between words.**
+- [Solution](./breackCamelCase.js)
 
 
 
