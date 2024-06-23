@@ -64,3 +64,6 @@ This repository contains a collection of problems and their corresponding soluti
 
 20.  **The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator! Here's the deal:**
 - [Solution](./hashTagGenerator.js)
+
+21.  **Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.**
+- [Solution](./divisibleN.js)

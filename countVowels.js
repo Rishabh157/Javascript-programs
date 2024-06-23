@@ -13,3 +13,5 @@ function countVowels(string) {
 
 let result = countVowels('The only thing we have to fear is fear itself.')
 console.log(result)
+
+
