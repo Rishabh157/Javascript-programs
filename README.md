@@ -70,3 +70,6 @@ This repository contains a collection of problems and their corresponding soluti
 
 22.  **Nathan loves cycling. Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling. Given the time in hours, you need to return the number of litres of water that Nathan will drink, rounded to the smallest value.**
 - [Solution](./findPerHourConsumeWater.js)
+
+23.  **Given a word, your job is to return the middle character(s) of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.**
+- [Solution](./findPerHourConsumeWater.js)
