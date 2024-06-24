@@ -67,3 +67,6 @@ This repository contains a collection of problems and their corresponding soluti
 
 21.  **Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.**
 - [Solution](./divisibleN.js)
+
+22.  **Nathan loves cycling. Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling. Given the time in hours, you need to return the number of litres of water that Nathan will drink, rounded to the smallest value.**
+- [Solution](./findPerHourConsumeWater.js)
