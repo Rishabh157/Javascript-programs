@@ -79,3 +79,6 @@ This repository contains a collection of problems and their corresponding soluti
 
 25.  **Write a function that accepts an array of 10 integers (between 0 and 9), and returns a string of those numbers in the form of a phone number.**
 - [Solution](./createPhoneNumber.js)
+
+26. **Given an integer, your task is to square every digit of it and concatenate them to produce a new integer.**
+- [Solution](./squareDigits.js)
