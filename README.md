@@ -82,3 +82,6 @@ This repository contains a collection of problems and their corresponding soluti
 
 26. **Given an integer, your task is to square every digit of it and concatenate them to produce a new integer.**
 - [Solution](./squareDigits.js)
+
+27.  **Given a string of space-separated numbers, write a function that returns the highest and lowest numbers. There will always be at least one number in the input string.**
+- [Solution](./highestAndLowest.js)
