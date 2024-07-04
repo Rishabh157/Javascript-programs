@@ -85,3 +85,8 @@ This repository contains a collection of problems and their corresponding soluti
 
 27.  **Given a string of space-separated numbers, write a function that returns the highest and lowest numbers. There will always be at least one number in the input string.**
 - [Solution](./highestAndLowest.js)
+
+
+28.  **Write a function that takes any non-negative integer as an argument and returns it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.**
+- [Solution](./highestAndLowest.js)
+
